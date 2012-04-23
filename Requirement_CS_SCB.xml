@@ -1,0 +1,1308 @@
+<concentration>
+	<department>CSCI</department>
+	<degree>Computer Science Sc.B</degree>
+
+	<requirements>
+		<requirement id="0">
+			<title>Math Prerequisite</title>
+			<group num="1">
+				<course>MATH 0100</course>
+				<course>MATH 0170</course>
+				<course>MATH 0190</course> 
+			</group>
+		</requirement>
+
+		<requirement id="1">
+			<title>Linear Algebra Requirement</title>
+			<group num="1">
+				<course>CSCI 0530</course>
+				<course>MATH 0520</course>
+				<course>MATH 0540</course>
+			</group>
+		</requirement>
+		<requirement id="2">
+			<title>Advance Math Requirement</title>
+			<group num="1">
+				<course>MATH 0180</course>
+				<course>MATH 0190</course>
+				<course>MATH 0200</course>
+				<course>MATH 0350</course>
+				<course>MATH 1010</course>
+				<course>MATH 1130</course>
+				<course>MATH 1140</course>
+				<course>MATH 1260</course>
+				<course>APMA 0330</course>
+				<course>APMA 0340</course>
+				<course>APMA 1180</course>
+				<course>APMA 1260</course>
+				<course>APMA 1330</course>
+				<course>APMA 1340</course>
+			</group>	
+		</requirement>
+
+		<requirement id="3">
+			<title>Science Requirement</title>
+			<group num="2">
+				<group num = "1">
+					<course>BIOL 0200</course>
+				</group>
+				<group num = "1">
+					<course>BIOL 0310</course>
+					<course>BIOL 0380</course>
+					<course>BIOL 0400</course>
+					<course>BIOL 0410</course>
+					<course>BIOL 0430</course>
+					<course>BIOL 0470</course>
+					<course>BIOL 0480</course>
+					<course>BIOL 0530</course>
+					<course>BIOL 0800</course>
+					<course>BIOL 1050</course>
+					<course>BIOL 1140</course>
+					<course>BIOL 1160</course>
+					<course>BIOL 1190</course>
+					<course>BIOL 1210</course>
+					<course>BIOL 1260</course>
+					<course>BIOL 1270</course>
+					<course>BIOL 1290</course>
+					<course>BIOL 1465</course>
+					<course>BIOL 1470</course>
+					<course>BIOL 1520</course>
+					<course>BIOL 0860</course>
+					<course>BIOL 1100</course>
+					<course>BIOL 1120</course>
+					<course>BIOL 1150</course>
+					<course>BIOL 1180</course>
+					<course>BIOL 1310</course>
+					<course>BIOL 1410</course>
+					<course>BIOL 1500</course>
+					<course>BIOL 1540</course>
+					<course>BIOL 1550</course>
+					<course>BIOL 1560</course>
+					<course>BIOL 1600</course>
+					<course>BIOL 1800</course>
+					<course>BIOL 1820</course>
+					<course>BIOL 1880</course>
+					<course>BIOL 1941E</course>
+				</group>
+			</group>
+			<group num = "2">
+				<group num= "1">
+					<course>PHYS 0050</course>
+				</group>
+				<group num="1">
+					<course>PHYS 0060</course>
+					<course>PHYS 0160</course>
+				</group>
+			</group>
+			<group num= "2">
+				<group num = "1">
+					<course>PHYS 0070</course>
+				</group>
+				<group num ="1">
+					<course>PHYS 0080</course>
+					<course>PHYS 0160</course>
+				</group>
+			</group>
+			<group num = "2">
+				<group num= "1">
+					<course>PHYS 0030</course>
+				</group>
+				<group num="1">
+					<course>PHYS 0040</course>
+					<course>PHYS 160</course>
+				</group>
+			</group>
+
+			<group num = "2">
+				<group num ="1">
+					<course>CHEM 0330</course>
+				</group>
+				<group num = "1">
+					<course>CHEM 0350</course>
+				</group>
+			</group>
+
+			<group num = "2">
+				<group num ="1">
+					<course>ENGN 0030</course>
+				</group>
+				<group num = "1">
+					<course>ENGN 0040</course>
+				</group>
+			</group>
+
+			<group num ="2">
+				<group num ="1">
+					<course>GEOL 0220</course>
+				</group>
+				<group num = "1">
+					<course>GEOL 0230</course>
+					<course>GEOL 0240</course>
+					<course>GEOL 1450</course>
+				</group>
+			</group>
+		</requirement>
+
+		<requirement id="4">
+			<title>Core Computer Science</title>
+			<group num ="2">
+				<course> CSCI 0150</course>
+				<course> CSCI 0160</course>
+			</group>
+			<group num ="2">
+				<course> CSCI 0170</course>
+				<course> CSCI 0180</course>
+			</group>
+			<group num ="2">
+				<group num ="1">
+					<course> CSCI 0190</course>
+				</group>
+				<group num = "1">
+					<course> CSCI 1230</course>
+					<course> CSCI 1250</course>
+					<course> CSCI 1270</course>
+					<course> CSCI 1290</course>
+					<course> CSCI 1370</course>
+					<course> CSCI 1600</course>
+					<course> CSCI 1680</course>
+					<course> CSCI 1730</course>
+					<course> CSCI 1760</course>
+					<course> CSCI 1810</course>
+					<course> CSCI 1950N</course>
+					<course> CSCI 2310</course>
+					<course> CSCI 2590</course>
+					<course> CSCI 2890</course>
+					<course> CSCI 2950K</course>
+					<course> CSCI 2950L</course>
+					<course> CSCI 2950R</course>
+					<course> CSCI 1280</course>
+					<course> CSCI 1320</course>
+					<course> CSCI 1410</course>
+					<course> CSCI 1460</course>
+					<course> CSCI 1510</course>
+					<course> CSCI 1550</course>
+					<course> CSCI 1570</course>
+					<course> CSCI 1660</course>
+					<course> CSCI 1670</course>
+					<course> CSCI 1690</course>
+					<course> CSCI 1800</course>
+					<course> CSCI 1820</course>
+					<course> CSCI 1900</course>
+					<course> CSCI 1950F</course>
+					<course> CSCI 1950H</course>
+					<course> CSCI 2240</course>
+					<course> CSCI 2270</course>
+					<course> CSCI 2950C</course>
+					<course> CSCI 2951B</course>
+				</group>
+			</group> 
+		</requirement>
+
+
+		<requirement id="5">
+			<title>Intermediate Computer Science Requirement</title>
+
+			<group num="3">
+				<group num= "1">
+					<course>CSCI 0220</course>
+					<course>CSCI 0450</course>
+					<course>CSCI 0510</course>
+				</group>
+
+				<group num="1">
+					<course>CSCI 0310</course>
+					<course>CSCI 0320</course>
+					<course>CSCI 0330</course>
+				</group>
+				<group num="1">
+					<course>CSCI 0220</course>
+					<course>CSCI 0450</course>
+					<course>CSCI 0510</course>
+					<course>CSCI 0310</course>
+					<course>CSCI 0320</course>
+					<course>CSCI 0330</course>
+				</group>
+			</group>
+		</requirement>
+
+		<requirement id="6" share="7,8,9,10">
+			<title>Pairs Requirement</title>
+			<group num = "2">
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 1230</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1250</course>	
+						<course>CSCI 1280</course>	
+						<course>CSCI 1290</course>	
+						<course>CSCI 1320</course>	
+						<course>CSCI 1370</course>	
+						<course>CSCI 1410</course>
+						<course>CSCI 1430</course>	
+						<course>CSCI 1480</course>	
+						<course>CSCI 2240</course>	
+						<course>CSCI 2310</course>	
+						<course>CSCI 2330</course>	
+						<course>CSCI 2370</course>
+						<course>CSCI 2950J</course>	
+						<course>CSCI 2951B</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 1250</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1230</course>
+						<course>CSCI 1290</course>
+						<course>CSCI 2240</course>
+					</group>
+				</group>
+		
+				<group num ="2">
+					<group num ="1">
+						<course>CSCI 1260</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1730</course>		
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 1270</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1320</course>	
+						<course>CSCI 1380</course>	
+						<course>CSCI 1580</course>	
+						<course>CSCI 1610</course>	
+						<course>CSCI 1670</course>	
+						<course>CSCI 2270</course>
+						<course>CSCI 2330</course>	
+						<course>CSCI 2950T</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 1280</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1230</course>	
+						<course>CSCI 1290</course>	
+						<course>CSCI 2240</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 1290</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1230</course>	
+						<course>CSCI 1250</course>	
+						<course>CSCI 1280</course>	
+						<course>CSCI 1370</course>	
+						<course>CSCI 1430</course>	
+						<course>CSCI 2240</course>
+						<course>CSCI 2951B</course>
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 1320</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1230</course>	
+						<course>CSCI 1270</course>	
+						<course>CSCI 1290</course>	
+						<course>CSCI 1380</course>	
+						<course>CSCI 1600</course>	
+						<course>CSCI 1610</course>
+						<course>CSCI 1670</course>	
+						<course>CSCI 1680</course>	
+						<course>CSCI 1900</course>	
+						<course>CSCI 2240</course>	
+						<course>CSCI 2310</course>	
+						<course>CSCI 2330</course>
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 1370</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1230</course>	
+						<course>CSCI 1250</course>	
+						<course>CSCI 1280</course>	
+						<course>CSCI 1290</course>	
+						<course>CSCI 2240</course>	
+						<course>CSCI 2370</course>
+						<course>CSCI 2950J</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 1380</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1270</course>	
+						<course>CSCI 1320</course>	
+						<course>CSCI 1610</course>	
+						<course>CSCI 1660</course>	
+						<course>CSCI 1680</course>	
+						<course>CSCI 1760</course>
+						<course>CSCI 2330</course>	
+						<course>CSCI 2950T</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 1410</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1230</course>	
+						<course>CSCI 1430</course>	
+						<course>CSCI 1460</course>	
+						<course>CSCI 1480</course>	
+						<course>CSCI 1490</course>	
+						<course>CSCI 1580</course>
+						<course>CSCI 1950F</course>	
+						<course>CSCI 2440</course>	
+						<course>CSCI 2580</course>	
+						<course>CSCI 2950O</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 1430</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1230</course>	
+						<course>CSCI 1290</course>	
+						<course>CSCI 1410</course>	
+						<course>CSCI 1460</course>	
+						<course>CSCI 1480</course>	
+						<course>CSCI 1950F</course>
+						<course>CSCI 2950Q</course>	
+					</group>		
+				</group>
+		
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 1460</course>
+					</group>
+					<group num ="1">	
+						<course>CSCI 1410</course>
+						<course>CSCI 1430</course>	
+						<course>CSCI 1950F</course>	
+						<course>CSCI 2410</course>	
+						<course>CSCI 2950K</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 1480</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1230</course>		
+						<course>CSCI 1410</course>
+						<course>CSCI 1430</course>	
+						<course>CSCI 1950F</course>	
+						<course>CSCI 2950N</course>	
+						<course>CSCI 2950Z</course>	
+						<course>CSCI 2951A</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 1490</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1410</course>
+						<course>CSCI 1550</course>	
+						<course>CSCI 1570</course>	
+						<course>CSCI 1950F</course>	
+						<course>CSCI 1950J</course>	
+						<course>CSCI 1950M</course>	
+						<course>CSCI 2580</course>
+						<course>CSCI 2950E</course>		
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 1510</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1550</course>	
+						<course>CSCI 1570</course>	
+						<course>CSCI 1660</course>	
+						<course>CSCI 1850</course>	
+						<course>CSCI 1950H</course>	
+						<course>CSCI 1950J</course>
+						<course>CSCI 2590</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 1550</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1490</course>	
+						<course>CSCI 1510</course>	
+						<course>CSCI 1570</course>	
+						<course>CSCI 1590</course>	
+						<course>CSCI 1810</course>	
+						<course>CSCI 1950F</course>
+						<course>CSCI 1950H</course>	
+						<course>CSCI 1950J</course>	
+						<course>CSCI 1950L</course>	
+						<course>CSCI 2500</course>	
+						<course>CSCI 2510</course>	
+						<course>CSCI 2531</course>
+						<course>CSCI 2540</course>	
+						<course>CSCI 2580</course>	
+						<course>CSCI 2950E</course>
+						<course>CSCI 2950R</course>
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 1570</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1490</course>	
+						<course>CSCI 1510</course>	
+						<course>CSCI 1550</course>	
+						<course>CSCI 1590</course>	
+						<course>CSCI 1760</course>	
+						<course>CSCI 1810</course>
+						<course>CSCI 1950H</course>	
+						<course>CSCI 1950J</course>	
+						<course>CSCI 1950L</course>	
+						<course>CSCI 2500</course>		
+						<course>CSCI 2510</course>	
+						<course>CSCI 2531</course>
+						<course>CSCI 2540</course>	
+						<course>CSCI 2580</course>	
+						<course>CSCI 2950R</course>	
+						<course>CSCI 2950W</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 1580</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1270</course>	
+						<course>CSCI 1410</course>	
+						<course>CSCI 1490</course>	
+						<course>CSCI 1950F</course>	
+						<course>CSCI 1950J</course>
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 1590</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1550</course>	
+						<course>CSCI 1570</course>	
+						<course>CSCI 1850</course>	
+						<course>CSCI 1950H</course>	
+						<course>CSCI 1950J</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 1600</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1320</course>	
+						<course>CSCI 1670</course>	
+						<course>CSCI 1680</course>	
+						<course>CSCI 1900</course>	
+						<course>CSCI 2300</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 1610</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1270</course>	
+						<course>CSCI 1320</course>	
+						<course>CSCI 1380</course>	
+						<course>CSCI 1670</course>	
+						<course>CSCI 1780</course>	
+						<course>CSCI 1900</course>
+						<course>CSCI 2330</course>	
+						<course>CSCI 2950G</course>
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 1660</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1320</course>	
+						<course>CSCI 1380</course>	
+						<course>CSCI 1510</course>	
+						<course>CSCI 1670</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 1670</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1270</course>	
+						<course>CSCI 1320</course>	
+						<course>CSCI 1600</course>	
+						<course>CSCI 1610</course>	
+						<course>CSCI 1660</course>	
+						<course>CSCI 1680</course>
+						<course>CSCI 1760</course>	
+						<course>CSCI 1900</course>	
+						<course>CSCI 2270</course>	
+						<course>CSCI 2330</course>		
+						<course>CSCI 2950T</course>	
+						<course>CSCI 2950U</course>
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 1680</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1320</course>	
+						<course>CSCI 1380</course>	
+						<course>CSCI 1600</course>	
+						<course>CSCI 1670</course>	
+						<course>CSCI 2330</course>	
+						<course>CSCI 2950G</course>
+						<course>CSCI 2950T</course>	
+						<course>CSCI 2950U</course>	
+					</group>		
+				</group>
+	
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 1730</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1260</course>	
+						<course>CSCI 1900</course>	
+						<course>CSCI 2330</course>	
+						<course>CSCI 2730</course>	
+						<course>CSCI 2950X</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 1760</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1380</course>	
+						<course>CSCI 1570</course>	
+						<course>CSCI 1670</course>	
+						<course>CSCI 1780</course>	
+						<course>CSCI 1950H</course>	
+						<course>CSCI 2750</course>
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 1780</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1380</course>	
+						<course>CSCI 1610</course>	
+						<course>CSCI 1760</course>	
+						<course>CSCI 1900</course>	
+						<course>CSCI 2330</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 1810</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1550</course>	
+						<course>CSCI 1570</course>	
+						<course>CSCI 1950H</course>	
+						<course>CSCI 1950J</course>	
+						<course>CSCI 1950L</course>	
+						<course>CSCI 1950Z</course>
+						<course>CSCI 2950C</course>	
+						<course>CSCI 2950L</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 1850</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1510</course>	
+						<course>CSCI 1590</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 1900</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1320</course>	
+						<course>CSCI 1600</course>	
+						<course>CSCI 1610</course>	
+						<course>CSCI 1670</course>	
+						<course>CSCI 1730</course>	
+						<course>CSCI 1780</course>
+						<course>CSCI 2310</course>	
+						<course>CSCI 2330</course>	
+						<course>CSCI 2340</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 1950F</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1410</course>	
+						<course>CSCI 1430</course>	
+						<course>CSCI 1460</course>	
+						<course>CSCI 1480</course>	
+						<course>CSCI 1490</course>	
+						<course>CSCI 1550</course>
+						<course>CSCI 1580</course>	
+						<course>CSCI 2410</course>	
+						<course>CSCI 2440</course>	
+						<course>CSCI 2580</course>	
+						<course>CSCI 2950O</course>	
+						<course>CSCI 2950P</course>
+						<course>CSCI 2950Q</course>
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 1950H</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1510</course>	
+						<course>CSCI 1550</course>	
+						<course>CSCI 1570</course>	
+						<course>CSCI 1590</course>	
+						<course>CSCI 1760</course>	
+						<course>CSCI 1950J</course>
+						<course>CSCI 1950L</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 1950J</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1490</course>	
+						<course>CSCI 1510</course>	
+						<course>CSCI 1550</course>	
+						<course>CSCI 1570</course>	
+						<course>CSCI 1590</course>	
+						<course>CSCI 1760</course>
+						<course>CSCI 1810</course>	
+						<course>CSCI 1950H</course>	
+						<course>CSCI 1950L</course>	
+						<course>CSCI 2510</course>	
+						<course>CSCI 2520</course>	
+						<course>CSCI 2580</course>
+						<course>CSCI 2950R</course>	
+						<course>CSCI 2950W</course>
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 1950L</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1550</course>	
+						<course>CSCI 1570</course>	
+						<course>CSCI 1810</course>	
+						<course>CSCI 1950H</course>	
+						<course>CSCI 1950J</course>	
+						<course>CSCI 1950Z</course>
+						<course>CSCI 2950C</course>	
+						<course>CSCI 2950L</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 1950M</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1490</course>	
+						<course>CSCI 2580</course>	
+						<course>CSCI 2950E</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 1950Z</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1810</course>	
+						<course>CSCI 1950L</course>	
+						<course>CSCI 2950C</course>	
+						<course>CSCI 2950L</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 2240</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1230</course>	
+						<course>CSCI 1250</course>	
+						<course>CSCI 1280</course>	
+						<course>CSCI 1290</course>	
+						<course>CSCI 1320</course>	
+						<course>CSCI 2330</course>
+						<course>CSCI 2370</course>	
+						<course>CSCI 2950J</course>	
+						<course>CSCI 2951B</course>
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 2270</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1270</course>	
+						<course>CSCI 1380</course>	
+						<course>CSCI 1670</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 2310</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1230</course>	
+						<course>CSCI 1320</course>	
+						<course>CSCI 1900</course>	
+						<course>CSCI 2330</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 2330</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1230</course>	
+						<course>CSCI 1270</course>	
+						<course>CSCI 1320</course>	
+						<course>CSCI 1380</course>	
+						<course>CSCI 1600</course>	
+						<course>CSCI 1610</course>
+						<course>CSCI 1670</course>	
+						<course>CSCI 1680</course>	
+						<course>CSCI 1730</course>	
+						<course>CSCI 1780</course>	
+						<course>CSCI 1900</course>	
+						<course>CSCI 2240</course>
+						<course>CSCI 2310</course>		
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 2340</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1900</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 2370</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1230</course>	
+						<course>CSCI 1250</course>	
+						<course>CSCI 1280</course>	
+						<course>CSCI 1370</course>	
+						<course>CSCI 2240</course>	
+						<course>CSCI 2950J</course>
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 2410</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1460</course>	
+						<course>CSCI 1950F</course>	
+						<course>CSCI 2950K</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 2440</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1410</course>	
+						<course>CSCI 1950F</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 2500</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1550</course>	
+						<course>CSCI 1570</course>	
+						<course>CSCI 1950J</course>	
+						<course>CSCI 2510</course>	
+						<course>CSCI 2540</course>	
+						<course>CSCI 2950R</course>
+						<course>CSCI 2950W</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 2510</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1550</course>	
+						<course>CSCI 1570</course>	
+						<course>CSCI 1950J</course>	
+						<course>CSCI 2500</course>	
+						<course>CSCI 2540</course>	
+						<course>CSCI 2950R</course>
+						<course>CSCI 2950W</course>	
+					</group>		
+				</group>
+
+				<group num ="2">
+					<group num ="1">
+						<course>CSCI 2520</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1950J</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 2531</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1550</course>	
+						<course>CSCI 1570</course>	
+						<course>CSCI 1580</course>	
+						<course>CSCI 2950W</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 2540</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1550</course>	
+						<course>CSCI 1570</course>	
+						<course>CSCI 2500</course>	
+						<course>CSCI 2510</course>
+					</group>		
+				</group>
+
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 2580</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1410</course>	
+						<course>CSCI 1490</course>	
+						<course>CSCI 1550</course>	
+						<course>CSCI 1570</course>	
+						<course>CSCI 1950F</course>	
+						<course>CSCI 1950J</course>
+						<course>CSCI 1950M</course>	
+						<course>CSCI 2950E</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 2590</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1510</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 2730</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1730</course>	
+						<course>CSCI 2950X</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 2750</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1760</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 2950C</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1810</course>	
+						<course>CSCI 1950L</course>	
+						<course>CSCI 1950Z</course>	
+						<course>CSCI 2950L</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 2950E</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1490</course>	
+						<course>CSCI 1550</course>	
+						<course>CSCI 1950M</course>	
+						<course>CSCI 2580</course>
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 2950G</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1380</course>	
+						<course>CSCI 1610</course>	
+						<course>CSCI 1680</course>	
+					</group>		
+				</group>
+
+				<group num ="2">
+					<group num ="1">
+						<course>CSCI 2950J</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1230</course>	
+						<course>CSCI 1370</course>	
+						<course>CSCI 2240</course>	
+						<course>CSCI 2370</course>	
+					</group>		
+				</group>
+	
+				<group num ="2">
+					<group num ="1">
+						<course>CSCI 2950K</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1460</course>	
+						<course>CSCI 2410</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 2950L</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1810</course>	
+						<course>CSCI 1950L</course>	
+						<course>CSCI 1950Z</course>	
+						<course>CSCI 2950C</course>	
+					</group>		
+				</group>
+
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 2950N</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1480</course>	
+						<course>CSCI 2950Z</course>	
+						<course>CSCI 2951A</course>	
+					</group>		
+				</group>
+
+				<group num ="2">
+					<group num ="1">
+						<course>CSCI 2950O</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1410</course>	
+						<course>CSCI 1950F</course>	
+						<course>CSCI 2950Q</course>
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 2950P</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1950F</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 2950Q</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1430</course>	
+						<course>CSCI 1950F</course>	
+						<course>CSCI 2950O</course>	
+					</group>		
+				</group>
+
+				<group num ="2">
+					<group num ="1">
+						<course>CSCI 2950R</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1550</course>	
+						<course>CSCI 1570</course>	
+						<course>CSCI 1950J</course>	
+						<course>CSCI 2500</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 2950T</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1270</course>	
+						<course>CSCI 1380</course>	
+						<course>CSCI 1670</course>	
+						<course>CSCI 1680</course>	
+					</group>		
+				</group>
+		
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 2950U</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1380</course>	
+						<course>CSCI 1670</course>	
+						<course>CSCI 1680</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 2950W</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1570</course>	
+						<course>CSCI 1950J</course>	
+						<course>CSCI 2500</course>	
+						<course>CSCI 2510</course>	
+						<course>CSCI 2531</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 2950X</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1730</course>	
+						<course>CSCI 2730</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 2950Z</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1480</course>	
+						<course>CSCI 2950N</course>	
+						<course>CSCI 2951A</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 2951A</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1480</course>	
+						<course>CSCI 2950N</course>	
+						<course>CSCI 2950Z</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>CSCI 2951B</course>
+					</group>
+					<group num ="1">
+						<course>CSCI 1230</course>	
+						<course>CSCI 1250</course>	
+						<course>CSCI 1280</course>	
+						<course>CSCI 1290</course>	
+						<course>CSCI 1370</course>	
+						<course>CSCI 1430</course>	
+						<course>CSCI 2240</course>
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>ENGN 1600</course>
+					</group>
+					<group num ="1">
+						<course>ENGN 1630</course>	
+						<course>ENGN 1640</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>ENGN 1630</course>
+					</group>
+					<group num ="1">
+						<course>ENGN 1600</course>	
+						<course>ENGN 1640</course>	
+					</group>		
+				</group>
+
+				<group num = "2">
+					<group num ="1">
+						<course>ENGN 1640</course>
+					</group>
+					<group num ="1">
+						<course>ENGN 1600</course>	
+						<course>ENGN 1630</course>	
+					</group>		
+				</group>
+			</group>
+		</requirement>
+		
+		<requirement id="7" share="6">
+			<title>Theory Requirement</title>	
+			<group num = "1">
+				<course>CSCI 1490</course>
+				<course>CSCI 1510</course>
+				<course>CSCI 1550</course>
+				<course>CSCI 1570</course>
+				<course>CSCI 1590</course>
+				<course>CSCI 1760</course>
+				<course>CSCI 1950H</course>
+				<course>CSCI 1950J</course>
+				<course>CSCI 1950L</course>
+			</group>
+		</requirement>
+		<requirement id="8" share="6">
+			<title>Systems Requirement</title>
+			<group num ="1">
+				<course>CSCI 1230</course>
+				<course>CSCI 1260</course>
+				<course>CSCI 1270</course>
+				<course>CSCI 1290</course>
+				<course>CSCI 1320</course>
+				<course>CSCI 1340</course>
+				<course>CSCI 1380</course>
+				<course>CSCI 1600</course>
+				<course>CSCI 1660</course>
+				<course>CSCI 1670</course>
+				<course>CSCI 1680</course>
+				<course>CSCI 1730</course>
+				<course>CSCI 1900</course>
+			</group>
+		</requirement>
+		<requirement id="9" share="6">
+			<title>AI Requirement</title>
+			<group num = "1">
+				<course>CSCI 1410</course>
+				<course>CSCI 1430</course>
+				<course>CSCI 1460</course>
+				<course>CSCI 1480</course>
+				<course>CSCI 1490</course>
+				<course>CSCI 1580</course>
+				<course>CSCI 1950F</course>
+			</group>
+		</requirement>
+		<requirement id="10" share="6">
+			<title>Capstone Requirement</title>
+			<group num = "1">
+				<course>CSCI 1320</course>
+				<course>CSCI 1660</course>
+				<course>CSCI 1760</course>
+				<course>CSCI 1900</course>
+				<course>CSCI 1970</course>
+				<course>CSCI 2240</course>
+				<course>CSCI 2370</course>
+				<course>CSCI 2500B</course>
+				<course>CSCI 2950P</course>
+				<course>CSCI 2950U</course>
+				<course>CSCI 2951C</course>
+			</group>
+		</requirement>
+	</requirements>
+</concentration>
+
+
+
+
+
+
